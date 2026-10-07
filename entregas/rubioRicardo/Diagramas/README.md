@@ -1,1 +1,1 @@
-Se cambió el nombrado de los estados del diagrama inicial al actual debido a que, previamente, no representaban estados reales, lo cual va en contra de la idea principal del diagrama.
+se añadio el estado opuesto farmear aura y se uso el lenguaje del cliente en comparación a la version anterior
