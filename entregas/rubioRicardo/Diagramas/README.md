@@ -1,1 +1,1 @@
-se añadio el estado opuesto farmear aura y se uso el lenguaje del cliente en comparación a la version anterior
+Se mejoraron el nombrado de los estados y sus bucles lo cual te permite encadenar un conjunto de acciones para recuperar o seguir farmeando Aura
